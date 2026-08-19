@@ -1,4 +1,4 @@
-package Week 2; public class Student {
+public class Student {
 
     // Attributes
     String name;
